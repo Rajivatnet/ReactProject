@@ -1,0 +1,30 @@
+{
+  "name": "reactproject",
+  "version": "1.0.0",
+  "description": "Sample react project for learning",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajivatnet/ReactProject.githttps.git"
+  },
+  "keywords": [
+    "react",
+    "basic"
+  ],
+  "author": "Rajiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajivatnet/ReactProject.githttps/issues"
+  },
+  "homepage": "https://github.com/Rajivatnet/ReactProject.githttps#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
